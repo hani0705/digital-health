@@ -1,0 +1,12 @@
+name: digiexam
+title: digiexam
+username: hani7519
+account: hani7519
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12282411
+bundleId: 8831746
+url: https://hani7519.shinyapps.io/digiexam/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
